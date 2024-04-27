@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Combat\n"
+"POT-Creation-Date: 2024-04-17 22:21+0530\n"
+"PO-Revision-Date: 2024-04-17 22:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: Flythemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html_e;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Combat"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Combat!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Combat has been installed and activated successfully. Now, you can "
+"start building your dream website with a wide range of highly-customizable "
+"block patterns, templates, and template parts available in this astounding "
+"theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Combat Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Combat Pro. With the pro theme installed, get more options like "
+"google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Combat Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Combat? Feel free to leave your feedback. Your opinion helps us reach "
+"more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/about.php:15
+#: patterns/team.php:13
+msgid "Welcome To"
+msgstr ""
+
+#: patterns/about.php:19
+#: patterns/team.php:17
+msgid "Combat Fitness"
+msgstr ""
+
+#: patterns/about.php:42
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu pharetra "
+"ex. Etiam eget diam ligula. Sed at blandit ante. Vivamus feugiat, lacus eu "
+"suscipit mattis, tortor mi aliquam leo, quis laoreet ante sem sed sapien. "
+"Phasellus id convallis ligula. Aliquam erat volutpat."
+msgstr ""
+
+#: patterns/about.php:47
+msgid "Read More"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:13
+msgid "Build Your Body"
+msgstr ""
+
+#: patterns/banner.php:19
+msgid "Transform your life"
+msgstr ""
+
+#: patterns/features.php:12
+msgid "PUSH YOUR LIMITS FORWARD"
+msgstr ""
+
+#: patterns/features.php:16
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu pharetra "
+"ex. Etiam eget diam ligula. Sed at blandit ante. Vivamus feugiat, lacus eu "
+"suscipit mattis, tortor mi aliquam leo."
+msgstr ""
+
+#: patterns/features.php:37
+#: patterns/features.php:61
+#: patterns/features.php:85
+#: patterns/features.php:109
+msgid "Quality Equipment"
+msgstr ""
+
+#: patterns/features.php:42
+#: patterns/features.php:66
+#: patterns/features.php:90
+#: patterns/features.php:114
+msgid ""
+"Vivamus eu pharetra ex. Etiam eget diam ligula. Sed at blandit ante. Vivamus "
+"feugiat lacus"
+msgstr ""
+
+#: patterns/footer.php:21
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu pharetra "
+"ex. Etiam eget"
+msgstr ""
+
+#: patterns/footer.php:26
+msgid "CALL US ANYTIME"
+msgstr ""
+
+#: patterns/footer.php:30
+msgid "+123 45677345"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "VISIT OUR LOCATION"
+msgstr ""
+
+#: patterns/footer.php:44
+#: patterns/header.php:45
+msgid "12 Main Street Pt. London England"
+msgstr ""
+
+#: patterns/footer.php:54
+msgid "Latest News"
+msgstr ""
+
+#: patterns/footer.php:78
+msgid "Our Services"
+msgstr ""
+
+#: patterns/footer.php:83
+msgid "Home"
+msgstr ""
+
+#: patterns/footer.php:87
+msgid "Help Center"
+msgstr ""
+
+#: patterns/footer.php:91
+msgid "Health Care"
+msgstr ""
+
+#: patterns/footer.php:95
+msgid "Insurance Claim"
+msgstr ""
+
+#: patterns/footer.php:99
+msgid "Facilities"
+msgstr ""
+
+#: patterns/footer.php:103
+msgid "careers"
+msgstr ""
+
+#: patterns/footer.php:107
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer.php:111
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:120
+msgid "© Copyright 2024. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:124
+msgid "Fly Themes"
+msgstr ""
+
+#: patterns/footer.php:124
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:124
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:124
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:21
+msgid "+1 2345 6789"
+msgstr ""
+
+#: patterns/header.php:33
+msgid "Monday - Sunday 10:00 - 22:00"
+msgstr ""
+
+#: patterns/latest-news.php:13
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/latest-news.php:17
+msgid "Latest Blog"
+msgstr ""
+
+#: patterns/team.php:68
+msgid "Amara Hook"
+msgstr ""
+
+#: patterns/team.php:72
+msgid "Crossfit Expert"
+msgstr ""
+
+#: patterns/team.php:102
+msgid "James Freddie"
+msgstr ""
+
+#: patterns/team.php:106
+msgid "Cardio Coach"
+msgstr ""
+
+#: patterns/team.php:136
+msgid "Joshua Franklin"
+msgstr ""
+
+#: patterns/team.php:140
+msgid "Bodybuilding Coach"
+msgstr ""
+
+#: patterns/team.php:170
+msgid "Natalie Jones"
+msgstr ""
+
+#: patterns/team.php:174
+msgid "Fitness Instructor"
+msgstr ""
